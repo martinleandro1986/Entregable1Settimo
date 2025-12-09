@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-size:60 px;
+    box-shadow:0ch;
+}
+
+body {
+    background-color:rgba(88, 93, 94, 0.781)
+}
+
+p {
+    text-align: center;
+    padding-top: 60px;
+    font-size:20px;
+    text-align: justify;
+}
